@@ -220,7 +220,7 @@ fig_ = data.hist(figsize=(16, 16), bins=60, color="cyan",
 
 
     
-![png](titanic_main_files/titanic_main_4_0.png)
+![png](README_files/titanic_main_4_0.png)
     
 
 
@@ -235,7 +235,7 @@ plt.savefig("corrmat.png")
 
 
     
-![png](titanic_main_files/titanic_main_5_0.png)
+![png](README_files/titanic_main_5_0.png)
     
 
 
@@ -257,7 +257,7 @@ plt.title('Passenger Age Distribution')
 
 
     
-![png](titanic_main_files/titanic_main_6_1.png)
+![png](README_files/titanic_main_6_1.png)
     
 
 
@@ -279,7 +279,7 @@ plt.title('Passenger Fare Distribution')
 
 
     
-![png](titanic_main_files/titanic_main_7_1.png)
+![png](README_files/titanic_main_7_1.png)
     
 
 
@@ -311,7 +311,7 @@ plt.show()
 
 
     
-![png](titanic_main_files/titanic_main_9_0.png)
+![png](README_files/titanic_main_9_0.png)
     
 
 
@@ -1797,7 +1797,7 @@ importance.plot.bar(figsize = (12, 6))
 
 
     
-![png](titanic_main_files/titanic_main_70_1.png)
+![png](README_files/titanic_main_70_1.png)
     
 
 
