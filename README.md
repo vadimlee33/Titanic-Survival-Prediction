@@ -39,9 +39,6 @@ from sklearn.svm import SVC
 # metrics
 from sklearn.metrics import roc_auc_score
 
-# set random seed
-np.random.seed(0)
-
 # suppress warning messages
 import warnings
 warnings.filterwarnings('ignore')
