@@ -1,4 +1,5 @@
 # Titanic Survival Prediction
+This is one of my first Machine Learning team projects.
 
 ```python
 # libraries for load
