@@ -11,13 +11,13 @@ Machine Learning Classification Algorithms we used during the project:
 All algorithms were used from the scikit-learn open source library.
 
 ```python
-# libraries for load
-import pandas as pd
+# math
 import numpy as np
 
 # data visualization
 import matplotlib.pyplot as plt
 import seaborn as sns
+import pandas as pd
 
 # missing data imputation
 from feature_engine.imputation  import MeanMedianImputer, ArbitraryNumberImputer, CategoricalImputer
